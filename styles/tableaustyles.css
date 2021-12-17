@@ -1,0 +1,82 @@
+
+
+.navigation {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    top: 5px;
+    left: 10px;
+    right: 10px;
+    height: 50px;
+}
+
+.uncommon {
+    background-color: navy;
+    border: solid 3px rgb(1,1,27);
+}
+
+.mainbody {
+    top: 61px;
+    left: 10px;
+    right: 10px;
+    bottom: 61px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 10px;
+    right: 10px;
+    height: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(233, 233, 219);
+}
+
+.header {
+    color: rgb(233, 233, 219);
+    text-decoration: none;
+}
+
+.header:visited {
+    color: rgb(233, 233, 219);
+}
+
+.header:hover {
+    color: orange;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.chartpos {
+    display: block;
+    margin-left: auto;
+}
+
+.stick {
+    color: beige;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.plz {
+    color: navy;
+}
+
+.plz:hover {
+    font-size: larger;
+}
+
+.stick2 {
+    color:navy;
+    font-weight: bolder;
+}
+

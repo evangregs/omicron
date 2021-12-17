@@ -1,0 +1,112 @@
+.background {
+    background-image: url('../images/IMG_1748.jpg');
+}
+
+.background2 {
+    background-image: url('../images/mountin.jpg');
+}
+
+.navyboxes {
+    background-color: rgb(0, 0, 77);
+    color: beige;
+}
+
+.resumeheadtext {
+    color: rgb(0, 0, 77);
+    font-weight: bolder;
+}
+
+.rcb {
+    background-color: beige;
+}
+
+.beigeboxes {
+    background-color: beige;
+    color: navy;
+}
+
+.italics {
+    font-style:italic;
+    color: orange;
+}
+
+.resumebutton {
+    background-color: maroon;
+    color: beige;
+}
+
+.resumebutton:hover {
+    background-color: orange;
+    color: navy;
+}
+
+.byupic {
+    width: 60%;
+}
+
+.lowerbox {
+    background-color: beige;
+    color: maroon;
+}
+
+.lowerouterbox {
+    background-color: orange;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.footercolor {
+    background-color: navy;
+}
+
+.footercolorresume {
+    background-color: maroon;
+}
+
+.textdec {
+    color: orange;
+    text-decoration: underline;
+}
+
+.plainlink {
+    color:beige;
+    text-decoration: none;
+}
+
+.plainlink:hover {
+    color: maroon;
+}
+
+.resumeanchor {
+    color: orange;
+    text-decoration: none;
+}
+
+.resumeanchor:hover {
+    color: navy;
+}
+
+.footerlinkresume {
+    color: beige;
+    text-decoration: underline;
+}
+
+.plainlink2 {
+    color:beige;
+    text-decoration: none;
+}
+
+.plainlink2:hover {
+    color: orange;
+}
+
+.plainlink3 {
+    color:beige;
+    text-decoration: none;
+}
+
+.plainlink3:hover {
+    color: maroon;
+}
